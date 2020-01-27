@@ -8,6 +8,7 @@
     text-transform: uppercase;
     font-weight: bold;
     font-weight: 12;
+    cursor: pointer;
 }
 
 .Button:focus {
@@ -29,7 +30,8 @@
 }
 
 .success {
-    color: rgba(161, 240, 69, 1);
+    background-color: rgba(161, 240, 69, 1);
+    color: #fff;
 }
 
 .primary {
